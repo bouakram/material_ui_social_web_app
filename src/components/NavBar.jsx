@@ -39,7 +39,7 @@ function NavBar() {
             <Badge badgeContent={8} color="error">
             <NotificationsIcon />
             </Badge>
-            <Avatar alt="Remy Sharp" src="/static/images/avatar/1.jpg" />
+            <Avatar alt="Remy Sharp" src="https://mui.com//static/images/avatar/1.jpg" />
             </IconsPlaces>
         </StyledToolBar>
     </AppBar>
